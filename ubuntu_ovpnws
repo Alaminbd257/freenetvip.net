@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
 HOST='192.46.215.131';
-USER='mytunne1_demo';
-PASS='@@@@Alamin123';
-DBNAME='mytunne1_demo';
+USER='freenetv_freedata';
+PASS='@Avipdat1';
+DBNAME='freenetv_freedata';
 PORT_TCP='1194';
 PORT_UDP='53';
 
